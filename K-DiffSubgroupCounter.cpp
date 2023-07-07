@@ -1,3 +1,8 @@
+/*
+    I was inspired by Hackerrank's "Beautiful Triplet Problem" when designing this method.
+    This is a more general case of the problem.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
